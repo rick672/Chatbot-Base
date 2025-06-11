@@ -8,3 +8,6 @@ npm install
 ```
 node src/index.js
 ```
+```
+node --watch src/index.js
+```
